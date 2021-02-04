@@ -1,0 +1,22 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("https://diaonline.ig.com.br/wp-content/uploads/2019/01/brechos-em-goiania-8-excelentes-opcoes-para-economizar-1024x683.jpg");
+  background-color: rgb(74, 74, 121);
+  background-position: center;
+  background-size: cover;
+  padding: 200px 0px;
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+ color: white;
+ opacity: .7;
+ font-size: 20px;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+}
